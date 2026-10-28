@@ -29,7 +29,7 @@
 <tr>
 <td width="33%" valign="top">
 
-<h3 align="center"> Front End</h3>
+<h3 align="center"> Frontend Development</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
@@ -37,7 +37,7 @@
 
 ```text
 ╔════════════════════╗
-║     FRONT END      ║
+║     FRONTEND       ║
 ╠════════════════════╣
 ║    HTML5           ║
 ║    CSS3            ║
@@ -51,7 +51,7 @@
 </td>
 <td width="33%" valign="top">
 
-<h3 align="center"> Languages</h3>
+<h3 align="center"> Programming Languages</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
@@ -73,7 +73,7 @@
 </td>
 <td width="33%" valign="top">
 
-<h3 align="center"> Data Analytics/Visualizations</h3>
+<h3 align="center"> Data Science & Analytics</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
@@ -81,18 +81,17 @@
 
 ```text
 ╔════════════════════╗
-║   DATA ANALYTICS   ║
+║   DATA SCIENCE     ║
 ╠════════════════════╣
 ║    Pandas          ║
 ║    Excel           ║
 ║    Power BI        ║
-║    Visualization   ║
 ║    Data Cleaning   ║
 ╠════════════════════╣
 ║     EXPLORING      ║
+║    scikit-learn    ║
 ║        SQL         ║
-║  Machine Learning  ║
-║         AI         ║
+║        AI          ║
 ╚════════════════════╝
 ```
 
