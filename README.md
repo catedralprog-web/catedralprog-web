@@ -29,7 +29,7 @@
 <tr>
 <td width="33%" valign="top">
 
-<h3 align="center">  Frontend Development</h3>
+<h3 align="center"> Frontend  Development</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
