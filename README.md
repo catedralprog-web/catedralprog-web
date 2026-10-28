@@ -65,8 +65,8 @@
 ║    Java            ║
 ╠════════════════════╣
 ║     EXPLORING      ║
-║   Python for Data  ║
-║      Science       ║
+║         R          ║
+║     JavaScript     ║
 ╚════════════════════╝
 ```
 
