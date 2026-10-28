@@ -86,12 +86,10 @@
 ║    Pandas          ║
 ║    Excel           ║
 ║    Power BI        ║
-║    Data Cleaning   ║
 ╠════════════════════╣
 ║     EXPLORING      ║
 ║    scikit-learn    ║
 ║        SQL         ║
-║        AI          ║
 ╚════════════════════╝
 ```
 
