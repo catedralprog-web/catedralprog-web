@@ -17,7 +17,7 @@
 
 ## About Me
 
-- <img src="https://scontent-eze1-2.xx.fbcdn.net/v/t39.30808-6/306743696_10160322191274712_9205464884001321172_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s960x960&_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=vwo6F8yhkT8Q7kNvwH08giC&_nc_oc=AdqZ5JMS9Rd4WcnvE4bQGu-MrD4Rsne4zVOk732IZHEqgc0fmiQDcBztSVvEI6eWPqGUAWtWdSyCiMq6gXNPFM5W&_nc_zt=23&_nc_ht=scontent-eze1-2.xx&_nc_gid=LUWEsAYRG5XMfJ34p21QTw&_nc_ss=7b289&oh=00_AQMsz4YQGB1Ve1q56c31brfKJv5U4tlYTZhzt03q8o54Uw&oe=6AE66F1E" alt="Mi imagen de perfil" width="20"> Data Science student at UNMdP, Argentina.
+- Data Science student at UNMdP, Argentina.
 - <img src="https://cdn.creativefabrica.com/2019/03/Statistic-finance-logo-vector-by-Mansel-Brist-1.jpg" alt="Statistics and Finance" width="20"> Interested in Data Analytics, Statistics, Artificial Intelligence, and Machine Learning.
 -  <img src="https://static.thenounproject.com/png/1731722-200.png" alt="Technology Icon" width="20"> Curious about how data can help us understand the world and solve real-world problem (REAL STORYTELLING).
 - <img src="https://cdn.creativefabrica.com/2021/07/08/Technology-Icon-Graphics-14425513-1.png" alt="Technology" width="20"> I love technology, science, and continuous learning.
