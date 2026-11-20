@@ -18,10 +18,10 @@
 ## About Me
 
 - Data Science student at UNMdP, Argentina.
-- <img src="https://cdn.creativefabrica.com/2019/03/Statistic-finance-logo-vector-by-Mansel-Brist-1.jpg" alt="Statistics and Finance" width="20"> Interested in Data Analytics, Statistics, Artificial Intelligence, and Machine Learning.
--  <img src="https://static.thenounproject.com/png/1731722-200.png" alt="Technology Icon" width="20"> Curious about how data can help us understand the world and solve real-world problem (REAL STORYTELLING).
-- <img src="https://cdn.creativefabrica.com/2021/07/08/Technology-Icon-Graphics-14425513-1.png" alt="Technology" width="20"> I love technology, science, and continuous learning.
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpl_jzX2Fx4lWMDyOaKwgp-76NlIw7tPXFyOx71m3btpYVJ4FBL2M3fanT&s=10" alt="Data" width="20"> Sharing my learning journey and discoveries along the way.
+- Interested in Data Analytics, Statistics, Artificial Intelligence, and Machine Learning.
+- Curious about how data can help us understand the world and solve real-world problem (REAL STORYTELLING).
+- I love technology, science, and continuous learning.
+- Sharing my learning journey and discoveries along the way.
 
 ## My Skill Set
 
